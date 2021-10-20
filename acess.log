@@ -1,0 +1,6 @@
+::ffff:127.0.0.1 - - [23/Sep/2021:22:57:08 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+::ffff:127.0.0.1 - - [23/Sep/2021:22:57:08 +0000] "GET /css/product.css HTTP/1.1" 200 379 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+::ffff:127.0.0.1 - - [23/Sep/2021:22:57:08 +0000] "GET /js/main.js HTTP/1.1" 200 519 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+::ffff:127.0.0.1 - - [23/Sep/2021:22:57:09 +0000] "GET /css/main.css HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+::ffff:127.0.0.1 - - [23/Sep/2021:22:57:09 +0000] "GET /images/1628217454026-Rust.jpg HTTP/1.1" 200 92274 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
+::ffff:127.0.0.1 - - [23/Sep/2021:22:57:09 +0000] "GET /favicon.ico HTTP/1.1" - - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0"
